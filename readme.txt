@@ -4,7 +4,7 @@ Donate link: http://www.seo-smo.co.il/
 Tags: widget, widgets,seo,smo
 Requires at least: 2.6
 Tested up to: 2.8
-Stable tag: 1.0
+Stable tag: 1.1
 
 
 
@@ -18,7 +18,7 @@ This section describes how to install the plugin and get it working.
 
 
    1. Choose the right widget version for your wordpress version.
-   2. Upload poker-widget.php to the /wp-content/plugins/ directory
+   2. Upload wordpress-improve.php to the /wp-content/plugins/ directory
    3. Activate the plugin through the 'Plugins' menu in WordPress
 
 == Frequently Asked Questions ==

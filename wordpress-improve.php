@@ -4,7 +4,7 @@ Plugin Name: wordpress improve
 Plugin URI: http://www.seo-smo.co.il
 Description:wordpress improve Widget is a seo helper. use it to help your site performance.
 Author: seo-smo
-Version: 1.0
+Version: 1.1
 Author URI: http://www.1link.co.il
 */
 
